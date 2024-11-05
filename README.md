@@ -1,7 +1,8 @@
 Breast Cancer Classification Uisng Machine Learning
 This project demonstrates the implementation of a Logistic Regression classifier in Python using a Google Colab notebook. The model is trained to perform binary classification, using Scikit-Learn for building, training, and evaluating the model.
 
-Table of Contents
+Table of Contents:
+
 Introduction
 Dataset
 Installation
@@ -9,7 +10,9 @@ Project Workflow
 Results
 Contributing
 License
-Introduction
+
+Introduction:
+
 This project uses a Logistic Regression model to predict binary outcomes based on input features. The model is trained and evaluated using a dataset loaded through Scikit-Learn. Logistic Regression is widely used for binary classification tasks, where it helps predict a probability for each class.
 
 Dataset

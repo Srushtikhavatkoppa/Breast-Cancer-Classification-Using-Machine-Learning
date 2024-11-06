@@ -18,20 +18,20 @@ Contributing
 
 License
 
-*Introduction*
+**Introduction**
 
 This project uses a Logistic Regression model to predict binary outcomes based on input features. The model is trained and evaluated using a dataset loaded through Scikit-Learn. Logistic Regression is widely used for binary classification tasks, where it helps predict a probability for each class.
 
-*Dataset*
+**Dataset**
 
 The dataset used in this project is accessed through Scikit-Learn’s datasets module. It contains features relevant for classification and a target label indicating the class for each observation. The project demonstrates loading, splitting, and preparing the dataset for training and testing.
 
-*Installation*
+**Installation**
 
 To run this project, you need access to Google Colab. All necessary libraries are pre-installed in Colab
 
 
-*Project Workflow*
+**Project Workflow**
 
 The notebook follows these main steps:
 
@@ -48,8 +48,8 @@ Results
 
 6)The Logistic Regression model achieves significant accuracy in binary classification. Results may vary slightly based on data splits and hyperparameters.
 
-Contributing
+*Contributing*
 Contributions are welcome! Feel free to open issues or submit pull requests with improvements.
-
-License
+ 
+*License*
 This project is licensed under the MIT License.

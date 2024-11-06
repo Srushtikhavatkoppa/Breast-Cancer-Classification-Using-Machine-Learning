@@ -1,8 +1,8 @@
-*Breast Cancer Classification Uisng Machine*
+**Breast Cancer Classification Uisng Machine**
 
 This project demonstrates the implementation of a Logistic Regression classifier in Python using a Google Colab notebook. The model is trained to perform binary classification, using Scikit-Learn for building, training, and evaluating the model.
 
-*Table of Contents*
+**Table of Contents**
 
 Introduction
 Dataset

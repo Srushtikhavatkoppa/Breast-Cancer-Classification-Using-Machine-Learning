@@ -49,7 +49,9 @@ Results
 6)The Logistic Regression model achieves significant accuracy in binary classification. Results may vary slightly based on data splits and hyperparameters.
 
 *Contributing*
+
 Contributions are welcome! Feel free to open issues or submit pull requests with improvements.
  
 *License*
+
 This project is licensed under the MIT License.

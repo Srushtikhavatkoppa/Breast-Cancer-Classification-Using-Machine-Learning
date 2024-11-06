@@ -5,11 +5,17 @@ This project demonstrates the implementation of a Logistic Regression classifier
 **Table of Contents**
 
 Introduction
+
 Dataset
+
 Installation
+
 Project Workflow
+
 Results
+
 Contributing
+
 License
 
 *Introduction*
